@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis AI Assistant",
+  "description": "A voice-enabled AI assistant powered by Gemini, designed for real-time conversational experiences. This app provides a glimpse into the core functionalities outlined in the Jarvis project roadmap.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
